@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    margin: 40px;
+}
+
+h2 {    
+    margin-left: 30%;
+}
+
+button {
+    display: flex;
+    flex-direction: column;
+    color:gray;
+    background-color: rgb(255, 255, 255);
+    border-style: none;
+    padding: 25px;
+    margin: 30px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+button:hover {
+    border-color: rgb(111, 226, 163);
+    border-width: 2.4px;
+}
+
+.Choice {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
